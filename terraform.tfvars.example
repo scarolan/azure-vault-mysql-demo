@@ -1,0 +1,9 @@
+# Rename or copy this file to terraform.tfvars
+# Some of these variables must be unique, so replace with your own values.
+
+resource_group = "SeanC-Azure-Vault-SQL-Demo"
+hostname = "myvaultdemo"
+location = "centralus"
+admin_username = "scarolan"
+admin_password = "Sup3rS3cureP4ssw0rd"
+mysql_hostname = "mysql-server-1"
